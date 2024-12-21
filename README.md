@@ -1,2 +1,0 @@
-# group2-stacks-queues
-STACKS AND QUEUES CODE IMPLEMENTATION
